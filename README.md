@@ -1,4 +1,4 @@
-R_Plus_Plus
+#R++
 ===========
 
-XML backup of my blog template : rplusplus.blogspot.com
+XML backup of my [blog](www.rplusplus.blogspot.com) template. 
